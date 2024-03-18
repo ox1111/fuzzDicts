@@ -1,5 +1,9 @@
+## 악용시 본인 책임
+
+
 # fuzzDicts
 Web Pentesting Fuzz 字典,一个就够了。
+
 
 ## log 
 
